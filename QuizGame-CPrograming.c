@@ -363,5 +363,4 @@ void edit_score(float score, char plnm[20])
 	    fclose(f);
 	    f=fopen("scores.txt","w");
 	    fprintf(f,"%s\n%.2f",plnm,sc);
-	    fclose(f);}}
-	    
+	    fclose(f);}}    
