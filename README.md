@@ -1,3 +1,3 @@
 Notes:
 
-Compile & Run it via DEV C++
+Compile & Run it via Dev-C++
